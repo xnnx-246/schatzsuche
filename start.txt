@@ -1,0 +1,9 @@
+Hallo Abenteurer!
+
+Willkommen zur digitalen Schnitzeljagd! Ich hoffe, ihr seid bereit für ein spannendes Abenteuer voller Rätsel und Herausforderungen. Eure Mission ist es, den verborgenen Schatz zu finden, aber um dorthin zu gelangen, müsst ihr euer Geschick im Umgang mit der Konsole unter Beweis stellen.
+
+In jeder Datei findet ihr Hinweise, die euch den Weg weisen. Aber Vorsicht, der Weg zum Schatz ist mit Hindernissen gespickt! Ihr müsst eure Fähigkeiten nutzen, um sie zu überwinden.
+
+Lasst uns gleich loslegen! Öffnet eure Konsole und beginnt euer Abenteuer, indem ihr die Anweisungen befolgt. Viel Spaß und viel Erfolg!
+
+Hinweis: Gehe in den Wald, indem du die Datei wald.txt öffnest.

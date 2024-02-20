@@ -1,0 +1,38 @@
+Ihr habt das Baumhaus erreicht und seid nun einen Schritt näher am verborgenen Schatz! Doch bevor es weitergeht, müsst ihr ein weiteres Rätsel lösen.
+
+                        vv
+                     vvv^^^^vvvvv
+                 vvvvvvvvv^^vvvvvv^^vvvvv
+        vvvvvvvvvvv^^^^^^^^^^^^^vvvvv^^^vvvvv
+    vvvvvvv^^^^^^^^^vvv^^^^^^^vvvvvvvvvvv^^^vvv
+  vvvv^^^^^^vvvvv^^^^^^^vv^^^^^^^vvvv^^^vvvvvv
+ vv^^^^^^^^vvv^^^^^vv^^^^vvvvvvvvvvvv^^^^^^vv^
+ vvv^^^^^vvvv^^^^^^vvvvv^^vvvvvvvvv^^^^^^vvvvv^
+  vvvvvvvvvv^^^v^^^vvvvvv^^vvvvvvvvvv^^^vvvvvvvvv
+   ^vv^^^vvvvvvv^^vvvvv^^^^^^^^vvvvvvvvv^^^^^^vvvvvv
+     ^vvvvvvvvv^^^^vvvvvv^^^^^^vvvvvvvv^^^vvvvvvvvvv^v
+        ^^^^^^vvvv^^vvvvv^vvvv^^^v^^^^^^vvvvvv^^^^vvvvv
+ vvvv^^vvv^^^vvvvvvvvvv^vvvvv^vvvvvv^^^vvvvvvv^^vvvvv^
+vvv^vvvvv^^vvvvvvv^^vvvvvvv^^vvvvv^v##vvv^vvvv^^vvvvv^v
+ ^vvvvvv^^vvvvvvvv^vv^vvv^^^^^^_____##^^^vvvvvvvv^^^^
+    ^^vvvvvvv^^vvvvvvvvvv^^^^/\@@@@@@\#vvvv^^^
+         ^^vvvvvv^^^^^^vvvvv/__\@@@@@@\^vvvv^v
+             ;^^vvvvvvvvvvv/____\@@@@@@\vvvvvvv
+             ;      \_  ^\|[  -:] ||--| | _/^^
+             ;        \   |[   :] ||_/| |/
+             ;         \\ ||___:]______/
+             ;          \   ;=; /
+             ;           |  ;=;|
+             ;          ()  ;=;|
+            (()          || ;=;|
+                        / / \;=;\
+                        
+                        
+Wie lautet das Passwort für den Laptop?
+
+a) sdkevschwerin  (Lösungsbuchstabe: D)
+b) codingwithkids (Lösungsbuchstabe: J)
+c) weissichnichtmehr (Lösungsbuchstabe: A)
+
+Notiert euch den Lösungsbuchstaben und verlasst wieder das Baumhaus. 
+Unten im Wald fließt ein Fluss entlang. Öffnet die Datei fluss.txt

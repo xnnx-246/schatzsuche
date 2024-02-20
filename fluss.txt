@@ -1,0 +1,41 @@
+Als Entdecker des verborgenen Schatzes steht ihr nun am Ufer eines ruhig dahinfließenden Flusses. Die Sonne spiegelt sich sanft auf der glitzernden Wasseroberfläche wider, während das Rauschen des Flusses die Umgebung erfüllt.
+
+ (              ````                                            
+;`             ;;                                               
+ ;;  -""-.   ;;                 -;'  -.                         
+   ""     ``                      `.   `.                       
+                                    ;    `                      
+           `;                  -          ;         -.        ;`
+             `-  `.         .'`  .-'             .--`  ;     ;  
+              ;    `-.   ;    `-'             .;`     ;       `.
+              .        ``                                       
+               `            .--------.             .'           
+             ...        .--'``````````'--.        ;.            
+            `      . .-' .``          ``. '-. .      `.         
+          ;-.;  .  .' .`                  `. '.  .    ;         
+              .' .' .`                      `. '. '.    .       
+_____/'.-..___________________________ mvn,, ___________________
+                             )\     nMmIEFooPTn                 
+                            ( (    Li1iiJl1ItTIjp               
+                             ) \  i i_BP_LWmKK`  J  `           
+`                .          /  (   i1 LL 1I`L            .      
+             ..             \   \  i   X  Y o1                  
+                        .    )   )  `   l   p      ..           
+;                           /   (,      l(@) l                ..
+  q      ` .  '            (     \.     i    p   R          .;  
+   \  t            ;        )     \`   j,.. ,.q,/Pqoj          `
+    \/            `       ./       \`;     `'     `          .. 
+  '-     \;            -'.'    ;    \ `                     `. `
+.--.`.; ,-.. ,.-, ;' `.-'       `    `.'.   .--.""-._        .; 
+    `............---""     ;_.         )   (  '=    /         `-
+ ~                                    /     `------'     .      
+                 ~                  ,'  \|//            `'      
+                ~           ~       ; `. ""                   ..
+                                     `.  )     \"       .--"""
+                                     
+Unter einem großen, moosbedeckten Stein am Flussufer entdecken sie einen kleinen Zettel. Die geheimnisvolle Nachricht:
+
+"Gdv Hlfkköuqfkhq zhlß phku! Ilqghw hv! Hv zrkqw dxi ghp Edxp."
+
+Kleiner Tipp: Um die Geheimnachricht zu entschlüsseln, verwendet die Caesar-Chiffre mit einer Verschiebung von 3. Wenn du nicht weißt, was das bedeutet, google es! 
+Mit vereinten Kräften und klugem Denken werdet ihr die Geheimnachricht entschlüsseln und herausfinden, welcher Weg euch als nächstes zum Schatz führt.
